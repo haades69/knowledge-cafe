@@ -1,0 +1,53 @@
+[
+    {
+      "ID": 12345,
+      "Cover": "https://i.ibb.co/xSqYbZf/top-view-desk-concept-with-coffee.jpg",
+      "Title": "The Enchanted Forest",
+      "Author": "Jane Doe",
+      "Author_img": "https://i.ibb.co/vB5dHww/P1030613.jpg",
+      "Posted_date": "September 13, 2023",
+      "Reading_time":14,
+      "Hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+    },
+    {
+      "ID": 67890,
+      "Cover": "https://i.ibb.co/xSqYbZf/top-view-desk-concept-with-coffee.jpg",
+      "Title": "The Secret Code",
+      "Author": "John Smith",
+      "Author_img": "https://i.ibb.co/vB5dHww/P1030613.jpg",
+      "Posted_date": "September 14, 2023",
+      "Reading_time": 12,
+      "Hashtags": ["#Mystery", "#Thriller", "#CodeBreaker"]
+    },
+    {
+      "ID": 24680,
+      "Cover": "https://i.ibb.co/XXP1bT0/7964736.jpg",
+      "Title": "Starship Odyssey",
+      "Author": "Emily Johnson",
+      "Author_img": "https://i.ibb.co/nfcN0Nj/P1030663.jpg",
+      "Posted_date": "September 15, 2023",
+      "Reading_time": 8,
+      "Hashtags": ["#ScienceFiction", "#SpaceAdventure", "#Aliens"]
+    },
+    {
+      "ID": 13579,
+      "Cover": "https://i.ibb.co/XXP1bT0/7964736.jpg",
+      "Title": "Recipes from Around the World",
+      "Author": "David Wilson",
+      "Author_img": "https://i.ibb.co/nfcN0Nj/P1030663.jpg",
+      "Posted_date": "September 16, 2023",
+      "Reading_time": 6,
+      "Hashtags": ["#Cookbook", "#Cuisine", "#Foodie"]
+    },
+    {
+      "ID": 54321,
+      "Cover": "https://i.ibb.co/5sH2pLB/298-furniture-social-media-post-template.jpg",
+      "Title": "The Time Traveler's Diary",
+      "Author": "Sarah Anderson",
+      "Author_img": "https://i.ibb.co/nfcN0Nj/P1030663.jpg",
+      "Posted_date": "September 17, 2023",
+      "Reading_time": 5,
+      "Hashtags": ["#TimeTravel", "#Adventure", "#History"]
+    }
+  ]
+  
