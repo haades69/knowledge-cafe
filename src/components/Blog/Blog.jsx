@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 
-const Blog = ({ blog, handleAddToBookmark }) => {
+const Blog = ({ blog, handleAddToBookmark ,handleReadingTime }) => {
   const {
     Title,
     Cover,
@@ -33,6 +33,9 @@ const Blog = ({ blog, handleAddToBookmark }) => {
       </div>
       <h2 className="text-4xl">{Title}</h2>
       <p>{Hashtags} </p>
+      <button
+      onClick={()=>handleReadingTime(Reading_time)}
+       className=" text-purple-800"><u>Mark as read</u></button>
     </div>
   );
 };
@@ -40,5 +43,6 @@ const Blog = ({ blog, handleAddToBookmark }) => {
 Blog.propTypes = {
   blog: PropTypes.object.isRequired,
   handleAddToBookmark: PropTypes.func.isRequired,
+  handleReadingTime: PropTypes.func.isRequired,
 };
 export default Blog;
